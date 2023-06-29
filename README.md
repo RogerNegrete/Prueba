@@ -1,3 +1,3 @@
 # Prueba
 Readme.md
-![Logo de GitHub](./![Logo de GitHub](./graph.png))
+![Logo de GitHub](./![Logo de GitHub](./graph.png)
