@@ -1,3 +1,3 @@
 # Prueba
 Readme.md
-![Texto alternativo](C:\Users\steve\Downloads/graph.png)
+![Logo de GitHub](https://github.com/usuario/repositorio/raw/main/imagen.png)
